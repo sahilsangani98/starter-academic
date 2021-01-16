@@ -26,7 +26,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2020-011-01"
+  date_start: "2020-11-01"
   description: ""
   organization: Linkedin Learning
   organization_url: https://www.linkedin.com/learning
