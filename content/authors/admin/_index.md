@@ -26,13 +26,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master of Applied Computing 
-    specialization in Artificial Intelligence
+  - course: Master of Applied Computing specialization in Artificial Intelligence
     institution: University of Windsor, Windsor, Canada
-    year: 2019 - 2020
+    year: 2019-20
   - course: Bachelor of Engineering in Information Technology
     institution: Gujarat Technological University, Gujarat, India
-    year: 2015 - 2019
+    year: 2015-19
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,4 +72,4 @@ Sahil Sangani PARA 1
 
 Sahil Sangani PARA 2
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
