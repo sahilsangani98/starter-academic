@@ -27,8 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Software Developement
+    tag: Software Developement
+  - name: Machine Learning
+    tag: Machine Learning
   - name: Deep Learning
     tag: Deep Learning
+  - name: BI Tools
+    tag: BI Tools
   - name: Other
     tag: Demo
 
