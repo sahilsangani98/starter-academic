@@ -30,7 +30,7 @@ item:
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: AWS Fundamentals: Going Cloud-Native
+  title: AWS Fundamentals - Going Cloud-Native
   url: ""
 - certificate_url: https://www.youracclaim.com/badges/212af137-bec7-4d46-9899-824372648901/linked_in_profile
   date_end: ""
