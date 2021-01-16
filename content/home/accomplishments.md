@@ -26,6 +26,14 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2020-02-01"
+  description: ""
+  organization: Linkedin Learning
+  organization_url: https://www.linkedin.com/learning
+  title: Learning MongoDB
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2020-01-01"
   description: ""
   organization: Linkedin Learning
