@@ -73,9 +73,10 @@ url_source: 'https://ijritcc.org/index.php/ijritcc/article/view/5342'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
-
+'''
+  
 # {{% callout note %}}
 # Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 # {{% /callout %}}
@@ -85,3 +86,5 @@ slides: example
 # {{% /callout %}}
 
 # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+'''
