@@ -10,8 +10,8 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
-# title: 'Certifications'
+# title: 'Accomplish&shy;ments'
+title: 'Certifications'
 subtitle:
 
 # Date format
@@ -25,7 +25,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/LUKWH5C6LDGK
-  date_end: "2019-02-01"
+  date_end: ""
   date_start: "2019-02-01"
   description: ""
   organization: Coursera
@@ -33,7 +33,7 @@ item:
   title: Using Python to Access Web Data
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/B4R2FN6EAA3T
-  date_end: "2018-07-01"
+  date_end: ""
   date_start: "2019-02-01"
   description: 
   organization: Coursera
@@ -41,7 +41,7 @@ item:
   title: Programming for Everybody (Getting Started with Python)
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/LHRU34LSYYVL
-  date_end: "2018-07-01"
+  date_end: ""
   date_start: "2019-02-01"
   description: ""
   organization: Coursera
