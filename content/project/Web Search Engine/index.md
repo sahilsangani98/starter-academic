@@ -1,10 +1,9 @@
 ---
-title: Cheque Clearance System 22222
-summary: The extensive use of cheques in daily life make the advancement of the conventional cheque clearing method. "Cheque Clearing System" is a portal which renders smooth, effective and convenient clearing of cheques. It enables to deal with different banks transaction. Receiver cashier can upload the scanned copy of cheque issued by another bank or same bank further clearance done by the admins with the verification of the sender bank. This system is developed using Python Flask Framework, HTML, CSS, Bootstarp, Google Vision API, MySQL, and Machine Learning algorithm SVM.
+title: Web Search Engine
+summary: The Web Search Engine is developed using various concepts such as HTML to Text string tokenizer, Edit Distance, Modified Boyer Moore with Quick Sort, HashSet, and Regex.
 tags:
 - Software Developement
-- ML / DL
-date: "2018-12-01T00:00:00Z"
+date: "2019-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
@@ -18,7 +17,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://github.com/sahilsangani98/ChequeClearanceSystem"
+url_code: "https://github.com/sahilsangani98/Web-Search-Engine"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -30,4 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
+The Web Search Engine is developed using various concepts such as HTML to Text string tokenizer, Edit Distance, Modified Boyer Moore with Quick Sort, HashSet, and Regex.
