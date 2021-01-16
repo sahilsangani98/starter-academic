@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master of Applied Computing specialization in Artificial Intelligence
+  - course: Master of Applied Computing Specialization in Artificial Intelligence
     institution: University of Windsor, Windsor, Canada
     year: 2019-20
   - course: Bachelor of Engineering in Information Technology
