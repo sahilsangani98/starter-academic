@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Scinetist Intern
+  - title: Data Scientist Intern
     company: SalonEverywhere
     company_url: 'https://saloneverywhere.com/'
     location: Canada
