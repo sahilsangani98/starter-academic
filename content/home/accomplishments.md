@@ -26,7 +26,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/LUKWH5C6LDGK
   date_end: "2019-02-01"
-  date_start: ""
+  date_start: "2019-02-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
@@ -34,7 +34,7 @@ item:
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/B4R2FN6EAA3T
   date_end: "2018-07-01"
-  date_start: ""
+  date_start: "2019-02-01"
   description: 
   organization: Coursera
   organization_url: https://www.coursera.org
@@ -42,7 +42,7 @@ item:
   url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/LHRU34LSYYVL
   date_end: "2018-07-01"
-  date_start: ""
+  date_start: "2019-02-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
