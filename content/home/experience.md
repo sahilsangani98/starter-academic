@@ -30,8 +30,8 @@ experience:
     date_end: ''
     # description: Taught electronic engineering and researched semiconductor physics.
   - title: Software Developer Intern
-    company: University of Windsor
-    company_url: ''
+    company: University of Windsor 
+    company_url: 'https://www.uwindsor.ca/'
     location: Canada
     date_start: '2020-09-01'
     date_end: '2020-12-31'
