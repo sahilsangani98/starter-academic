@@ -13,8 +13,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+# date: "2013-07-01T00:00:00Z"
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-08-01T00:00:00Z"
@@ -45,13 +45,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://ijritcc.org/index.php/ijritcc/article/view/5342/5287'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
 url_source: 'https://ijritcc.org/index.php/ijritcc/article/view/5342'
-url_video: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
