@@ -29,10 +29,8 @@ content:
     tag: '*'
   - name: Software Developement
     tag: Software Developement
-  - name: Machine Learning
-    tag: Machine Learning
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: ML / DL
+    tag: ML / DL
   - name: BI Tools
     tag: BI Tools
   - name: Other
