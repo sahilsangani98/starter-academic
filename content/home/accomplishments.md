@@ -25,6 +25,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
+- certificate_url: https://www.youracclaim.com/badges/e6848f2b-b8f8-4c09-9386-14f3caab73ae/linked_in_profile
+  date_end: ""
+  date_start: "2020-03-27"
+  description: ""
+  organization: IBM 
+  organization_url: https://cognitiveclass.ai/courses
+  title: Spark - Level 1
+  url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2020-02-01"
