@@ -21,6 +21,26 @@ feature:
   icon_pack: fab
   name: Python
 - description: Proficient
+  icon: sql
+  icon_pack: fab
+  name: SQL
+- description: Intermediate
+  icon: java
+  icon_pack: fab
+  name: Java
+- description: Intermediate
+  icon: html5
+  icon_pack: fab
+  name: HTML5
+- description: Intermediate
+  icon: css3
+  icon_pack: fab
+  name: CSS3
+- description: Intermediate
+  icon: javascript
+  icon_pack: fab
+  name: JavaScript
+- description: Proficient
   icon: r-project
   icon_pack: fab
   name: R
@@ -34,7 +54,7 @@ feature:
   name: Photography
 
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
+# - icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
 #  description: "100%"  
@@ -42,7 +62,7 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
+# - icon: "your-custom-icon-name"
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
