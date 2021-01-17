@@ -32,7 +32,7 @@ content:
   - name: Data Analysis
     tag: Data Analysis
   - name: ML/DL 
-    tag: ML/DL
+    tag: ML_DL
   - name: BI Tools
     tag: BI Tools
 
