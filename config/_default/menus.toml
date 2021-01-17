@@ -23,14 +23,14 @@
   url = "#projects"
   weight = 40
   
-#[[main]]
-  #name = "Publications"
+[[main]]
+  name = "Publications"
   # url = "publication/example/index"
-  #url = "publications"
+  url = "#featured"
   #weight = 50
 
 [[main]]
-  name = "Certification & Publication"
+  name = "Certification"
   url = "#accomplishments"
   weight = 50
 
