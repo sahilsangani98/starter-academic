@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Education"
-  url = "#"
+  url = "authors/admin/_index"
   weight = 30
   
 [[main]]
@@ -30,7 +30,7 @@
   
 [[main]]
   name = "Publications"
-  url = "#"
+  url = "publication/example/index"
   weight = 50
 
 [[main]]
