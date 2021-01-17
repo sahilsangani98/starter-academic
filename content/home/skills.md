@@ -21,37 +21,41 @@ feature:
   icon_pack: fab
   name: python
 - description: Proficient
-  icon: sql
+  icon: database
   icon_pack: fab
   name: SQL
 - description: Intermediate
   icon: java
   icon_pack: fab
   name: Java
-- description: Intermediate
+- description: Proficient
   icon: html5
   icon_pack: fab
   name: HTML5
-- description: Intermediate
+- description: Proficient
   icon: css3
   icon_pack: fab
   name: CSS3
 - description: Intermediate
   icon: javascript
   icon_pack: fab
-  name: JavaScript
+  name: js
 - description: Proficient
+  icon: flask
+  icon_pack: fab
+  name: Flask Framework
+- description: Beginner
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: Beginner
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: Beginner
+  icon: chart-line
   icon_pack: fas
-  name: Photography
+  name: Statistics
 
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
