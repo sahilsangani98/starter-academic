@@ -23,7 +23,7 @@ feature:
 - description: Proficient
   icon: database
   icon_pack: fab
-  name: SQL
+  name: Relational Databases - SQL / PostgreSQL
 - description: Intermediate
   icon: java
   icon_pack: fab
@@ -37,9 +37,9 @@ feature:
   icon_pack: fab
   name: CSS3
 - description: Intermediate
-  icon: javascript
+  icon: js
   icon_pack: fab
-  name: js
+  name: JavaScript
 - description: Intermediate
   icon: bootstrap
   icon_pack: fab
@@ -54,16 +54,13 @@ feature:
   name: R
 - description: Beginner
   icon: aws
-  icon_pack: fas
+  icon_pack: fab
   name: AWS
 - description: Beginner
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: Beginner
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+
 
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
