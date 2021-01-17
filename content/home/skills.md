@@ -48,10 +48,6 @@ feature:
   icon: flask
   icon_pack: fas
   name: Flask Framework
-- description: Proficient
-  icon: nlp
-  icon_pack: fab
-  name: NLP
 - description: Beginner
   icon: r-project
   icon_pack: fab
