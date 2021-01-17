@@ -19,7 +19,7 @@ feature:
 - description: Proficient
   icon: python
   icon_pack: fab
-  name: python
+  name: Python
 - description: Proficient
   icon: database
   icon_pack: fas
