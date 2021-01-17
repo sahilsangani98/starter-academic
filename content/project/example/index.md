@@ -2,8 +2,9 @@
 title: Cheque Clearance System
 summary: The extensive use of cheques in daily life make the advancement of the conventional cheque clearing method. "Cheque Clearing System" is a portal which renders smooth, effective and convenient clearing of cheques. It enables to deal with different banks transaction. Receiver cashier can upload the scanned copy of cheque issued by another bank or same bank further clearance done by the admins with the verification of the sender bank. This system is developed using Python Flask Framework, HTML, CSS, Bootstarp, Google Vision API, MySQL, and Machine Learning algorithm SVM.
 tags:
-- Software Developement
 - ML_DL
+- Software Developement
+
 date: "2018-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
