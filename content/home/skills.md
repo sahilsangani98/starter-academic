@@ -22,8 +22,8 @@ feature:
   name: python
 - description: Proficient
   icon: database
-  icon_pack: fab
-  name: Relational Databases - SQL / PostgreSQL
+  icon_pack: fas
+  name: SQL 
 - description: Intermediate
   icon: java
   icon_pack: fab
@@ -46,7 +46,7 @@ feature:
   name: Bootstrap
 - description: Proficient
   icon: flask
-  icon_pack: fab
+  icon_pack: fas
   name: Flask Framework
 - description: Proficient
   icon: nlp
