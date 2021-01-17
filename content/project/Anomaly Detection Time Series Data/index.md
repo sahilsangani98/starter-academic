@@ -2,8 +2,8 @@
 title: Anomaly Detection Time Series Data
 summary: Anomalies detection using keras and tensorflaw in S&P 500 dataset.
 tags:
-- Software Developement
-- ML / DL
+- Data Analysis
+- ML_DL
 date: "2020-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
