@@ -40,6 +40,10 @@ feature:
   icon: javascript
   icon_pack: fab
   name: js
+- description: Intermediate
+  icon: bootstrap
+  icon_pack: fab
+  name: Bootstrap
 - description: Proficient
   icon: flask
   icon_pack: fab
@@ -48,6 +52,10 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- description: Beginner
+  icon: aws
+  icon_pack: fas
+  name: AWS
 - description: Beginner
   icon: chart-line
   icon_pack: fas
