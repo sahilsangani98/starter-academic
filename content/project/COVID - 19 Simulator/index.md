@@ -2,7 +2,7 @@
 title: COVID - 19 Simulator
 summary: The spread of COVID-19 simulation is created using MESA library in this project. As a reference, SIR mathematical model for virus spread is used, which is type of compartmental model to represent the growth of agents ( Here, Positive/Negative/Suspected People) based on the differential equations.
 tags:
-- Software Developement
+- Other
 date: "2020-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
