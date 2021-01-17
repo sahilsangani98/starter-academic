@@ -3,7 +3,7 @@ title: Dice Game
 summary: A small multiple client server dice game to demonstrate workings of socket programming in C.
 
 tags:
-- Software Developement
+- Other
 date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
