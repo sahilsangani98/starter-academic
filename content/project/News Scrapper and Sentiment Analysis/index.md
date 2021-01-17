@@ -3,7 +3,8 @@ title: News Scrapper and Sentiment Analysis
 summary: In this project, I have scrapped news from google news using selenium and store the headlines as well as content of the news in a corpus folder. Then, I have done sentiment analysis on it used stopwords for learning purpose.
 
 tags:
-- ML / DL
+- Data Analysis
+- NLP
 date: "2020-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
