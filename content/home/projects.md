@@ -29,12 +29,12 @@ content:
     tag: '*'
   - name: Software Developement
     tag: Software Developement
-  - name: ML / DL
-    tag: ML / DL
+  - name: Data Analysis
+    tag: Data Analysis
+  - name: ML/DL 
+    tag: ML/DL
   - name: BI Tools
     tag: BI Tools
-  - name: Other
-    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
