@@ -37,6 +37,8 @@ content:
     tag: NLP
   - name: BI Tools
     tag: BI Tools
+  - name: Other
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
