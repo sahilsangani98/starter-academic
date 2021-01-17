@@ -3,7 +3,8 @@ title: IPL Winner Prediction
 summary: Data Analysis for IPL matches from 2008 - 2019 and predicting winner using SVM classifier.
 
 tags:
-- ML / DL
+- Data Analysis
+- ML_DL
 date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
