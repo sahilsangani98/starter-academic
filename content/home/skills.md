@@ -21,15 +21,15 @@ feature:
   icon_pack: fab
   name: Python
 - description: Intermediate
-  icon: fa-golang
+  icon: golang
   icon_pack: fab
   name: Golang
 - description: Intermediate
-  icon: fa-docker
+  icon: docker
   icon_pack: fab
   name: Docker
 - description: Intermediate
-  icon: fa-dharmachakra
+  icon: dharmachakra
   icon_pack: fab
   name: Kubernetes
 - description: Intermediate
