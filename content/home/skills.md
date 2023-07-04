@@ -20,6 +20,22 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description: Intermediate
+  icon: fa-golang
+  icon_pack: fab
+  name: Golang
+- description: Intermediate
+  icon: fa-docker
+  icon_pack: fab
+  name: Docker
+- description: Intermediate
+  icon: fa-dharmachakra
+  icon_pack: fab
+  name: Kubernetes
+- description: Intermediate
+  icon: fa-gitlab
+  icon_pack: fab
+  name: Gitlab
 - description: Proficient
   icon: database
   icon_pack: fas

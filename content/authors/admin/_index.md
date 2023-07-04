@@ -6,7 +6,7 @@ title: Sahil Sangani
 superuser: true
 
 # Role/position/tagline
-role: Data Scientist Intern
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations: []
@@ -14,13 +14,14 @@ organizations: []
 #   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include data analysis, software development and NLP - text analysis including machine learning models.
+bio: My interests includes Software Development with ML/Data domain.
 
 # Interests to show in About widget
 interests:
-- Data Analysis
 - Software Development
-- Machine Learnining
+- Data Engineering
+- Data Analysis
+- Machine Learning
 - Natural Language Processing
 - Text Analysis
 
@@ -69,8 +70,10 @@ email: "sahil.sangani03@gmail.com"
 highlight_name: false
 ---
 
-I'm recent computer science graduate from the University of Windsor. I love to play with data and discover underlying information within it. I'm looking for
-opportunity in Software Developement / Data Science domain. I've successfully completed couple of internships, where I worked with technologies like Python, 
-relational databases - SQL/MySQL/PostgreSQL, HTML, CSS, JavaScript, REST APIs and cloud based services.
+Experienced software engineer with a strong background in Python, Golang, Docker, Kubernetes, and various databases such as PostgreSQL, VerticaDB, and MySQL. Proficient in AWS services and adept at developing REST APIs. Skilled in monitoring and observability using Prometheus and Grafana. Additionally, possesses knowledge of Machine Learning and MLOps. With over 2 years of industry experience, I have successfully delivered high-quality software solutions and contributed to the development and maintenance of complex systems. Seeking challenging opportunities to further enhance my skills and make a significant impact in the field of software engineering.
+
+I would love to connect with new people and hear from them. Let's have a short meeting or schedule a call if you have any concerns. 
+
+Feel free to contact me on sahil.sangani03@gmail.com or (+1) 416-989-5247.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resume{{< /staticref >}}.

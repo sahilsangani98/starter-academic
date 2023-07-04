@@ -24,6 +24,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: "https://www.udemy.com/certificate/UC-315ea101-a6fb-4a31-9ff0-2c13eece4a3d/"
+  date_end: ""
+  date_start: "2023-02-01"
+  description: ""
+  organization: Udemy
+  organization_url: https://www.udemy.com
+  title: AWS Certified Cloud Practioner 
+  url: ""
+- certificate_url: "https://verify.acloud.guru/520AF9597680"
+  date_end: ""
+  date_start: "2023-02-01"
+  description: ""
+  organization: Cloud Guru
+  organization_url: https://www.pluralsight.com/cloud-guru
+  title: Learn Docker By Doing
+  url: ""
+- certificate_url: "http://surl.li/itwix"
+  date_end: ""
+  date_start: "2021-03-01"
+  description: ""
+  organization: Linkedin Learning
+  organization_url: https://www.linkedin.com/learning
+  title: Apache PySpark by Example
+  url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2020-11-01"
