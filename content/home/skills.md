@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: Intermediate
-  icon: golang
+  icon: gopher
   icon_pack: fab
   name: Golang
 - description: Intermediate
@@ -33,7 +33,7 @@ feature:
   icon_pack: fab
   name: Kubernetes
 - description: Intermediate
-  icon: fa-gitlab
+  icon: gitlab
   icon_pack: fab
   name: Gitlab
 - description: Proficient
