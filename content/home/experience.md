@@ -34,7 +34,7 @@ experience:
     company_url: 'https://saloneverywhere.com/'
     location: Canada
     date_start: '2021-01-01'
-    date_end: '2021-04-31'
+    date_end: '2021-04-30'
     # description: Taught electronic engineering and researched semiconductor physics.
   - title: Software Developer Intern
     company: University of Windsor 
