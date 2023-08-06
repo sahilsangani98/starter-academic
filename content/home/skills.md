@@ -25,6 +25,15 @@ feature:
   icon_pack: fab
   name: Golang
 - description: Intermediate
+  icon: java
+  icon_pack: fab
+  name: Java
+
+- description: Proficient
+  icon: database
+  icon_pack: fas
+  name: SQL 
+- description: Intermediate
   icon: docker
   icon_pack: fab
   name: Docker
@@ -32,18 +41,37 @@ feature:
   icon: dharmachakra
   icon_pack: fab
   name: Kubernetes
+
+- description: Intermediate
+  icon: aws
+  icon_pack: fab
+  name: AWS
+- description: Beginner
+  icon: gcp
+  icon_pack: fab
+  name: GCP
 - description: Intermediate
   icon: gitlab
   icon_pack: fab
   name: Gitlab
-- description: Proficient
-  icon: database
-  icon_pack: fas
-  name: SQL 
-- description: Intermediate
-  icon: java
+
+- description: Beginner
+  icon: Mage
   icon_pack: fab
-  name: Java
+  name: Mage
+- description: Beginner
+  icon: Tableau
+  icon_pack: fab
+  name: Tableau
+- description: Beginner
+  icon: Looker
+  icon_pack: fab
+  name: Looker
+
+- description: Proficient
+  icon: flask
+  icon_pack: fas
+  name: Flask Framework
 - description: Proficient
   icon: html5
   icon_pack: fab
@@ -52,6 +80,7 @@ feature:
   icon: css3
   icon_pack: fab
   name: CSS3
+
 - description: Intermediate
   icon: js
   icon_pack: fab
@@ -60,18 +89,11 @@ feature:
   icon: bootstrap
   icon_pack: fab
   name: Bootstrap
-- description: Proficient
-  icon: flask
-  icon_pack: fas
-  name: Flask Framework
 - description: Beginner
   icon: r-project
   icon_pack: fab
   name: R
-- description: Beginner
-  icon: aws
-  icon_pack: fab
-  name: AWS
+
 - description: Beginner
   icon: chart-line
   icon_pack: fas

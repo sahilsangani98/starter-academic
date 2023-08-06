@@ -33,6 +33,8 @@ content:
     tag: Data Analysis
   - name: ML/DL 
     tag: ML_DL
+  - name: Data Engineering
+    tag: DE
   - name: NLP
     tag: NLP
   - name: BI Tools
