@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: Intermediate
-  icon: gopher
+  icon: golang
   icon_pack: fab
   name: Golang
 - description: Intermediate
@@ -39,7 +39,7 @@ feature:
   name: Docker
 - description: Intermediate
   icon: dharmachakra
-  icon_pack: fab
+  icon_pack: fas
   name: Kubernetes
 
 - description: Intermediate
@@ -47,8 +47,8 @@ feature:
   icon_pack: fab
   name: AWS
 - description: Beginner
-  icon: gcp
-  icon_pack: fab
+  icon: cloud
+  icon_pack: fas
   name: GCP
 - description: Intermediate
   icon: gitlab
@@ -56,16 +56,16 @@ feature:
   name: Gitlab
 
 - description: Beginner
-  icon: Mage
-  icon_pack: fab
+  icon: gears
+  icon_pack: fas
   name: Mage
 - description: Beginner
-  icon: Tableau
-  icon_pack: fab
+  icon: magnifying-glass-chart
+  icon_pack: fas
   name: Tableau
 - description: Beginner
-  icon: Looker
-  icon_pack: fab
+  icon: magnifying-glass-chart
+  icon_pack: fas
   name: Looker
 
 - description: Proficient
